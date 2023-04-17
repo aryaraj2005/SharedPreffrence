@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">language Change Ap shared preferrendced Example</string>
+    <string name="prompt_email">ইমেইল</string>
+    <string name="prompt_password">পাসওয়ার্ড</string>
+    <string name="action_sign_in">স্বাক্ষর বা নিবন্ধন করুন</string>
+    <string name="action_sign_in_short">সাইন ইন করুন</string>
+    <string name="welcome">স্বাগত</string>
+    <string name="invalid_username">একটি বৈধ ব্যবহারকারীর নাম নয়</string>
+    <string name="invalid_password">পাসওয়ার্ড হতে হবে > 5 অক্ষর</string>
+    <string name="login_failed">লগইন ব্যর্থ</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+</resources>
